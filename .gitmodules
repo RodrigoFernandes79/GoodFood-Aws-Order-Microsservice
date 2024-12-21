@@ -1,0 +1,3 @@
+[submodule "GoodFood-ms-infra-aws"]
+	path = GoodFood-ms-infra-aws
+	url = git@github.com:RodrigoFernandes79/GoodFood-ms-infra-aws.git
